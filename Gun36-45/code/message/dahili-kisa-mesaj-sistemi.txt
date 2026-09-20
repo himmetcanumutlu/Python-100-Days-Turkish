@@ -1,0 +1,21 @@
+Dahili Kısa Mesaj Sistemi (Özel Mesaj Sistemi)
+
+1 Giriş
+	1.1 Kısa mesaj gönder
+	1.2 Okunmamış mesajları görüntüle
+		1.2.1 Mesajı oku
+		1.2.2 Okundu olarak işaretle
+		1.2.3 Üst seviyeye dön
+	1.3 Tüm mesajları görüntüle
+		1.3.1 Mesajı oku
+		1.3.2 Mesajı sil
+		1.3.3 Üst seviyeye dön
+	1.4 Tüm mesajları temizle
+	1.5 Çıkış yap
+2 Kayıt
+	2.1 Bilgileri doldurup kayıt ol
+	2.2 Üst seviyeye dön
+3 Çıkış
+
+Kullanıcı (kullanıcı adı, parola, son giriş zamanı)
+Kısa mesaj (no, gönderen, alıcı, başlık, içerik, gönderim zamanı, okundu mu, silindi)

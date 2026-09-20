@@ -1,0 +1,31 @@
+venv
+.idea
+*.pyc
+__pycache__
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python üretim/önbellek dosyaları
+*.pkl
+*.lprof
+*.log
+
+# Java / IDE üretim dosyaları
+*.class
+*.iml
+*.jar
+out/
+*.kotlin_module
+
+### VisualStudioCode ###
+.vscode/*
+.vscode/**
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
